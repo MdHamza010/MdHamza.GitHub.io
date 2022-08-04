@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MdHamza010/MdHamza.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MdHamza010/MdHamza.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+  <title> naruto </title>
+ <meta name="viewport" contet="width=device-width inital-scale=1"> 
+</head>
+  <body style="background: black">
+   <h1 style="color: yellow"> naruto </h1>
+<body>
+<div style="background:  #FFC300; witdh=200px; hight=300px">
+   <p style="font-size: 30px">Naruto Uzumaki (うずまきナルト, Uzumaki Naruto) is a Ninja from Konohagakure. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgment all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the Hero of the Hidden Leaf</p><b>
+</div>
+<figure> 
+ <img src="1.jpg"width="300"hight="400" />
+ <figcaption style="color: bule"> naruto
+</figure>
+  <div style="background: #FFC300">
+  <p style="font-size: 30px">Konohagakure no Eiyū, Literally meaning: Hero of the Hidden Tree Leaves). He soon proved to be one of the main factors in winning the Fourth Shinobi World War, leading him to achieve his dream and become the village's Seventh Hokage (七代目火影, Nanadaime Hokage, lit. Seventh Fire Shadow).</p>
+ <img src="n.jpeg"width="300"hight="400">
+</body>
+<script type="text/javascript">
+ alert("naruto coded by md hamza")
+</script>
+</html>
